@@ -68,3 +68,15 @@ def update_parameters(parameters, grads, learning_rate = 1.2):
     """Updates parameters using the gradient descent update rule given above"""
     # todo
     pass
+
+
+def nn_model(X, Y, n_h, num_iterations = 10000, print_cost=False):
+    """Neural network model"""
+    # todo
+    pass
+
+
+def predict(parameters, X):
+    """Using the learned parameters, predicts a class for each example in X"""
+    # todo
+    pass

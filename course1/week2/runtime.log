@@ -1,0 +1,126 @@
+2020-03-14 17:49:09.642 | INFO     | __main__:optimize:63 - Cost after iteration 0: 0.693147
+2020-03-14 17:49:26.772 | INFO     | __main__:optimize:63 - Cost after iteration 100: 0.823921
+2020-03-14 17:49:26.955 | INFO     | __main__:optimize:63 - Cost after iteration 200: 0.418944
+2020-03-14 17:49:27.122 | INFO     | __main__:optimize:63 - Cost after iteration 300: 0.617350
+2020-03-14 17:49:27.295 | INFO     | __main__:optimize:63 - Cost after iteration 400: 0.522116
+2020-03-14 17:49:27.465 | INFO     | __main__:optimize:63 - Cost after iteration 500: 0.387709
+2020-03-14 17:49:27.630 | INFO     | __main__:optimize:63 - Cost after iteration 600: 0.236254
+2020-03-14 17:49:27.793 | INFO     | __main__:optimize:63 - Cost after iteration 700: 0.154222
+2020-03-14 17:49:27.960 | INFO     | __main__:optimize:63 - Cost after iteration 800: 0.135328
+2020-03-14 17:49:28.126 | INFO     | __main__:optimize:63 - Cost after iteration 900: 0.124971
+2020-03-14 17:50:24.722 | INFO     | __main__:model:91 - train accuracy: 0.014354066985645933
+2020-03-14 17:50:25.552 | INFO     | __main__:model:92 - test accuracy: 0.014354066985645933
+2020-03-14 17:52:21.533 | INFO     | __main__:optimize:63 - Cost after iteration 0: 0.693147
+2020-03-14 17:52:21.704 | INFO     | __main__:optimize:63 - Cost after iteration 100: 0.823921
+2020-03-14 17:52:21.884 | INFO     | __main__:optimize:63 - Cost after iteration 200: 0.418944
+2020-03-14 17:52:22.062 | INFO     | __main__:optimize:63 - Cost after iteration 300: 0.617350
+2020-03-14 17:52:22.199 | INFO     | __main__:optimize:63 - Cost after iteration 400: 0.522116
+2020-03-14 17:52:22.345 | INFO     | __main__:optimize:63 - Cost after iteration 500: 0.387709
+2020-03-14 17:52:22.482 | INFO     | __main__:optimize:63 - Cost after iteration 600: 0.236254
+2020-03-14 17:52:22.617 | INFO     | __main__:optimize:63 - Cost after iteration 700: 0.154222
+2020-03-14 17:52:22.751 | INFO     | __main__:optimize:63 - Cost after iteration 800: 0.135328
+2020-03-14 17:52:22.890 | INFO     | __main__:optimize:63 - Cost after iteration 900: 0.124971
+2020-03-14 17:52:23.063 | INFO     | __main__:model:91 - train accuracy: 0.9856459330143541
+2020-03-14 17:52:23.063 | INFO     | __main__:model:92 - test accuracy: 0.7
+2020-03-14 17:52:50.636 | INFO     | __main__:optimize:63 - Cost after iteration 0: 0.693147
+2020-03-14 17:52:50.805 | INFO     | __main__:optimize:63 - Cost after iteration 100: 0.823921
+2020-03-14 17:52:50.998 | INFO     | __main__:optimize:63 - Cost after iteration 200: 0.418944
+2020-03-14 17:52:51.151 | INFO     | __main__:optimize:63 - Cost after iteration 300: 0.617350
+2020-03-14 17:52:51.299 | INFO     | __main__:optimize:63 - Cost after iteration 400: 0.522116
+2020-03-14 17:52:51.434 | INFO     | __main__:optimize:63 - Cost after iteration 500: 0.387709
+2020-03-14 17:52:51.568 | INFO     | __main__:optimize:63 - Cost after iteration 600: 0.236254
+2020-03-14 17:52:51.700 | INFO     | __main__:optimize:63 - Cost after iteration 700: 0.154222
+2020-03-14 17:52:51.835 | INFO     | __main__:optimize:63 - Cost after iteration 800: 0.135328
+2020-03-14 17:52:51.974 | INFO     | __main__:optimize:63 - Cost after iteration 900: 0.124971
+2020-03-14 17:52:52.119 | INFO     | __main__:model:91 - train accuracy: 0.985646
+2020-03-14 17:52:52.119 | INFO     | __main__:model:92 - test accuracy: 0.700000
+2020-03-14 17:53:10.614 | INFO     | __main__:optimize:63 - Cost after iteration 0: 0.693147
+2020-03-14 17:53:10.763 | INFO     | __main__:optimize:63 - Cost after iteration 100: 1.025272
+2020-03-14 17:53:10.940 | INFO     | __main__:optimize:63 - Cost after iteration 200: 10.775807
+2020-03-14 17:53:11.103 | INFO     | __main__:optimize:63 - Cost after iteration 300: 1.910240
+2020-03-14 17:53:11.278 | INFO     | __main__:optimize:63 - Cost after iteration 400: 0.290937
+2020-03-14 17:53:11.444 | INFO     | __main__:optimize:63 - Cost after iteration 500: nan
+2020-03-14 17:53:11.595 | INFO     | __main__:optimize:63 - Cost after iteration 600: 1.731262
+2020-03-14 17:53:11.743 | INFO     | __main__:optimize:63 - Cost after iteration 700: 0.023541
+2020-03-14 17:53:11.897 | INFO     | __main__:optimize:63 - Cost after iteration 800: 0.016495
+2020-03-14 17:53:12.037 | INFO     | __main__:optimize:63 - Cost after iteration 900: 0.013261
+2020-03-14 17:53:12.173 | INFO     | __main__:model:91 - train accuracy: 1.000000
+2020-03-14 17:53:12.173 | INFO     | __main__:model:92 - test accuracy: 0.700000
+2020-03-14 17:53:50.779 | INFO     | __main__:optimize:63 - Cost after iteration 0: 0.693147
+2020-03-14 17:53:51.035 | INFO     | __main__:optimize:63 - Cost after iteration 100: 0.584508
+2020-03-14 17:53:51.216 | INFO     | __main__:optimize:63 - Cost after iteration 200: 0.466949
+2020-03-14 17:53:51.382 | INFO     | __main__:optimize:63 - Cost after iteration 300: 0.376007
+2020-03-14 17:53:51.523 | INFO     | __main__:optimize:63 - Cost after iteration 400: 0.331463
+2020-03-14 17:53:51.667 | INFO     | __main__:optimize:63 - Cost after iteration 500: 0.303273
+2020-03-14 17:53:51.799 | INFO     | __main__:optimize:63 - Cost after iteration 600: 0.279880
+2020-03-14 17:53:51.946 | INFO     | __main__:optimize:63 - Cost after iteration 700: 0.260042
+2020-03-14 17:53:52.099 | INFO     | __main__:optimize:63 - Cost after iteration 800: 0.242941
+2020-03-14 17:53:52.237 | INFO     | __main__:optimize:63 - Cost after iteration 900: 0.228004
+2020-03-14 17:53:52.369 | INFO     | __main__:model:91 - train accuracy: 0.966507
+2020-03-14 17:53:52.370 | INFO     | __main__:model:92 - test accuracy: 0.720000
+2020-03-14 17:53:59.092 | INFO     | __main__:optimize:63 - Cost after iteration 0: 0.693147
+2020-03-14 17:53:59.223 | INFO     | __main__:optimize:63 - Cost after iteration 100: 0.584508
+2020-03-14 17:53:59.444 | INFO     | __main__:optimize:63 - Cost after iteration 200: 0.466949
+2020-03-14 17:53:59.590 | INFO     | __main__:optimize:63 - Cost after iteration 300: 0.376007
+2020-03-14 17:53:59.758 | INFO     | __main__:optimize:63 - Cost after iteration 400: 0.331463
+2020-03-14 17:53:59.929 | INFO     | __main__:optimize:63 - Cost after iteration 500: 0.303273
+2020-03-14 17:54:00.096 | INFO     | __main__:optimize:63 - Cost after iteration 600: 0.279880
+2020-03-14 17:54:00.234 | INFO     | __main__:optimize:63 - Cost after iteration 700: 0.260042
+2020-03-14 17:54:00.383 | INFO     | __main__:optimize:63 - Cost after iteration 800: 0.242941
+2020-03-14 17:54:00.544 | INFO     | __main__:optimize:63 - Cost after iteration 900: 0.228004
+2020-03-14 17:54:00.678 | INFO     | __main__:optimize:63 - Cost after iteration 1000: 0.214820
+2020-03-14 17:54:00.815 | INFO     | __main__:optimize:63 - Cost after iteration 1100: 0.203078
+2020-03-14 17:54:00.954 | INFO     | __main__:optimize:63 - Cost after iteration 1200: 0.192544
+2020-03-14 17:54:01.091 | INFO     | __main__:optimize:63 - Cost after iteration 1300: 0.183033
+2020-03-14 17:54:01.226 | INFO     | __main__:optimize:63 - Cost after iteration 1400: 0.174399
+2020-03-14 17:54:01.357 | INFO     | __main__:optimize:63 - Cost after iteration 1500: 0.166521
+2020-03-14 17:54:01.493 | INFO     | __main__:optimize:63 - Cost after iteration 1600: 0.159305
+2020-03-14 17:54:01.623 | INFO     | __main__:optimize:63 - Cost after iteration 1700: 0.152667
+2020-03-14 17:54:01.761 | INFO     | __main__:optimize:63 - Cost after iteration 1800: 0.146542
+2020-03-14 17:54:01.894 | INFO     | __main__:optimize:63 - Cost after iteration 1900: 0.140872
+2020-03-14 17:54:02.039 | INFO     | __main__:model:91 - train accuracy: 0.990431
+2020-03-14 17:54:02.039 | INFO     | __main__:model:92 - test accuracy: 0.700000
+2020-03-14 17:59:06.594 | INFO     | __main__:optimize:64 - Cost after iteration 0: nan
+2020-03-14 17:59:06.735 | INFO     | __main__:optimize:64 - Cost after iteration 100: nan
+2020-03-14 17:59:06.875 | INFO     | __main__:optimize:64 - Cost after iteration 200: nan
+2020-03-14 17:59:07.008 | INFO     | __main__:optimize:64 - Cost after iteration 300: nan
+2020-03-14 17:59:07.160 | INFO     | __main__:optimize:64 - Cost after iteration 400: inf
+2020-03-14 17:59:07.313 | INFO     | __main__:optimize:64 - Cost after iteration 500: inf
+2020-03-14 17:59:07.472 | INFO     | __main__:optimize:64 - Cost after iteration 600: inf
+2020-03-14 17:59:07.607 | INFO     | __main__:optimize:64 - Cost after iteration 700: inf
+2020-03-14 17:59:07.747 | INFO     | __main__:optimize:64 - Cost after iteration 800: 3.299154
+2020-03-14 17:59:07.887 | INFO     | __main__:optimize:64 - Cost after iteration 900: 3.056097
+2020-03-14 17:59:08.028 | INFO     | __main__:optimize:64 - Cost after iteration 1000: 2.849657
+2020-03-14 17:59:08.170 | INFO     | __main__:optimize:64 - Cost after iteration 1100: 2.668753
+2020-03-14 17:59:08.343 | INFO     | __main__:optimize:64 - Cost after iteration 1200: 2.502220
+2020-03-14 17:59:08.500 | INFO     | __main__:optimize:64 - Cost after iteration 1300: 2.345300
+2020-03-14 17:59:08.655 | INFO     | __main__:optimize:64 - Cost after iteration 1400: 2.197499
+2020-03-14 17:59:08.803 | INFO     | __main__:optimize:64 - Cost after iteration 1500: 2.059636
+2020-03-14 17:59:08.945 | INFO     | __main__:optimize:64 - Cost after iteration 1600: 1.931788
+2020-03-14 17:59:09.087 | INFO     | __main__:optimize:64 - Cost after iteration 1700: 1.813628
+2020-03-14 17:59:09.229 | INFO     | __main__:optimize:64 - Cost after iteration 1800: 1.704849
+2020-03-14 17:59:09.365 | INFO     | __main__:optimize:64 - Cost after iteration 1900: 1.605604
+2020-03-14 17:59:09.508 | INFO     | __main__:model:92 - train accuracy: 0.770335
+2020-03-14 17:59:09.508 | INFO     | __main__:model:93 - test accuracy: 0.580000
+2020-03-16 14:44:42.426 | INFO     | __main__:optimize:64 - Cost after iteration 0: 0.693147
+2020-03-16 14:44:42.569 | INFO     | __main__:optimize:64 - Cost after iteration 100: 0.584508
+2020-03-16 14:44:42.720 | INFO     | __main__:optimize:64 - Cost after iteration 200: 0.466949
+2020-03-16 14:44:42.860 | INFO     | __main__:optimize:64 - Cost after iteration 300: 0.376007
+2020-03-16 14:44:42.991 | INFO     | __main__:optimize:64 - Cost after iteration 400: 0.331463
+2020-03-16 14:44:43.097 | INFO     | __main__:optimize:64 - Cost after iteration 500: 0.303273
+2020-03-16 14:44:43.218 | INFO     | __main__:optimize:64 - Cost after iteration 600: 0.279880
+2020-03-16 14:44:43.326 | INFO     | __main__:optimize:64 - Cost after iteration 700: 0.260042
+2020-03-16 14:44:43.438 | INFO     | __main__:optimize:64 - Cost after iteration 800: 0.242941
+2020-03-16 14:44:43.552 | INFO     | __main__:optimize:64 - Cost after iteration 900: 0.228004
+2020-03-16 14:44:43.676 | INFO     | __main__:optimize:64 - Cost after iteration 1000: 0.214820
+2020-03-16 14:44:43.783 | INFO     | __main__:optimize:64 - Cost after iteration 1100: 0.203078
+2020-03-16 14:44:43.893 | INFO     | __main__:optimize:64 - Cost after iteration 1200: 0.192544
+2020-03-16 14:44:44.001 | INFO     | __main__:optimize:64 - Cost after iteration 1300: 0.183033
+2020-03-16 14:44:44.119 | INFO     | __main__:optimize:64 - Cost after iteration 1400: 0.174399
+2020-03-16 14:44:44.234 | INFO     | __main__:optimize:64 - Cost after iteration 1500: 0.166521
+2020-03-16 14:44:44.345 | INFO     | __main__:optimize:64 - Cost after iteration 1600: 0.159305
+2020-03-16 14:44:44.453 | INFO     | __main__:optimize:64 - Cost after iteration 1700: 0.152667
+2020-03-16 14:44:44.562 | INFO     | __main__:optimize:64 - Cost after iteration 1800: 0.146542
+2020-03-16 14:44:44.677 | INFO     | __main__:optimize:64 - Cost after iteration 1900: 0.140872
+2020-03-16 14:44:44.786 | INFO     | __main__:model:92 - train accuracy: 0.990431
+2020-03-16 14:44:44.786 | INFO     | __main__:model:93 - test accuracy: 0.700000

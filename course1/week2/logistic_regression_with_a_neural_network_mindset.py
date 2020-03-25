@@ -4,7 +4,7 @@
 # @Author: ZHANG
 # @Description: logistic_regression_with_a_neural_network_mindset
 import numpy as np
-from lr_utils import load_dataset
+from course1.week2.lr_utils import load_dataset
 from loguru import logger
 
 logger.add('runtime.log')

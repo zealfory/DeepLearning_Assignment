@@ -162,7 +162,7 @@ def predict(parameters, X):
 
 
 # Test
-my_parameters = nn_model(X, Y, n_h=4, num_iterations=10000, learning_rate=0.5, print_cost=True)
+my_parameters = nn_model(X, Y, n_h=4, num_iterations=10000, learning_rate=1.2, print_cost=True)
 
 plot_decision_boundary(lambda x: predict(my_parameters, x.T), X, Y)
 plt.title("Decision Boundary for hidden layer size " + str(4))

@@ -1,0 +1,22 @@
+2020-03-25 14:35:28.900 | INFO     | __main__:optimize:64 - Cost after iteration 0: 0.693147
+2020-03-25 14:35:29.018 | INFO     | __main__:optimize:64 - Cost after iteration 100: 0.584508
+2020-03-25 14:35:29.134 | INFO     | __main__:optimize:64 - Cost after iteration 200: 0.466949
+2020-03-25 14:35:29.240 | INFO     | __main__:optimize:64 - Cost after iteration 300: 0.376007
+2020-03-25 14:35:29.347 | INFO     | __main__:optimize:64 - Cost after iteration 400: 0.331463
+2020-03-25 14:35:29.457 | INFO     | __main__:optimize:64 - Cost after iteration 500: 0.303273
+2020-03-25 14:35:29.565 | INFO     | __main__:optimize:64 - Cost after iteration 600: 0.279880
+2020-03-25 14:35:29.673 | INFO     | __main__:optimize:64 - Cost after iteration 700: 0.260042
+2020-03-25 14:35:29.780 | INFO     | __main__:optimize:64 - Cost after iteration 800: 0.242941
+2020-03-25 14:35:29.888 | INFO     | __main__:optimize:64 - Cost after iteration 900: 0.228004
+2020-03-25 14:35:29.996 | INFO     | __main__:optimize:64 - Cost after iteration 1000: 0.214820
+2020-03-25 14:35:30.106 | INFO     | __main__:optimize:64 - Cost after iteration 1100: 0.203078
+2020-03-25 14:35:30.225 | INFO     | __main__:optimize:64 - Cost after iteration 1200: 0.192544
+2020-03-25 14:35:30.344 | INFO     | __main__:optimize:64 - Cost after iteration 1300: 0.183033
+2020-03-25 14:35:30.458 | INFO     | __main__:optimize:64 - Cost after iteration 1400: 0.174399
+2020-03-25 14:35:30.567 | INFO     | __main__:optimize:64 - Cost after iteration 1500: 0.166521
+2020-03-25 14:35:30.703 | INFO     | __main__:optimize:64 - Cost after iteration 1600: 0.159305
+2020-03-25 14:35:30.813 | INFO     | __main__:optimize:64 - Cost after iteration 1700: 0.152667
+2020-03-25 14:35:30.945 | INFO     | __main__:optimize:64 - Cost after iteration 1800: 0.146542
+2020-03-25 14:35:31.055 | INFO     | __main__:optimize:64 - Cost after iteration 1900: 0.140872
+2020-03-25 14:35:31.169 | INFO     | __main__:model:92 - train accuracy: 0.990431
+2020-03-25 14:35:31.169 | INFO     | __main__:model:93 - test accuracy: 0.700000

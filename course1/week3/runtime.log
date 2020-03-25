@@ -1,0 +1,11 @@
+2020-03-25 14:36:21.064 | INFO     | __main__:nn_model:153 - Cost after iteration 0:0.693048
+2020-03-25 14:36:21.210 | INFO     | __main__:nn_model:153 - Cost after iteration 1000:0.288083
+2020-03-25 14:36:21.356 | INFO     | __main__:nn_model:153 - Cost after iteration 2000:0.254385
+2020-03-25 14:36:21.499 | INFO     | __main__:nn_model:153 - Cost after iteration 3000:0.233864
+2020-03-25 14:36:21.643 | INFO     | __main__:nn_model:153 - Cost after iteration 4000:0.226792
+2020-03-25 14:36:21.781 | INFO     | __main__:nn_model:153 - Cost after iteration 5000:0.222644
+2020-03-25 14:36:21.922 | INFO     | __main__:nn_model:153 - Cost after iteration 6000:0.219731
+2020-03-25 14:36:22.058 | INFO     | __main__:nn_model:153 - Cost after iteration 7000:0.217504
+2020-03-25 14:36:22.197 | INFO     | __main__:nn_model:153 - Cost after iteration 8000:0.219456
+2020-03-25 14:36:22.333 | INFO     | __main__:nn_model:153 - Cost after iteration 9000:0.218558
+2020-03-25 14:36:22.740 | INFO     | __main__:<module>:174 - Accuracy: 0.907500
